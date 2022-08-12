@@ -15,5 +15,5 @@ I'm a Software Engineer, Telecommunications Engineer, and a Data Analyst who cur
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=militusinnocent&show_icons=true&include_all_commits=true&hide_border=true" alt="Militus's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=militusinnocent&langs_count=8&layout=compact&hide_border=true" alt="Militus's GitHub stats" /> |
 | ------------- | ------------- |
